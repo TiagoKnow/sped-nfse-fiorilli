@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-nfse-fiorilli",
+    "name": "tiagoknow/sped-nfse-fiorilli",
     "type": "library",
     "description": "API para geração e comunicação de RPS e NFSe no padão FIORILLI.",
     "keywords": ["nfe","nfse","sped","nfephp"],
